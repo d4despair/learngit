@@ -1,2 +1,3 @@
 hello world. It's my git-learning diary.
-ver 1.0 code:loco
+Now, I am goting to add a new sentence, and update the verson.
+ver 2.0 code:loco
